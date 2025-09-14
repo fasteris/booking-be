@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "booking-be",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "booking-db",
+      "database_id": "053fc0fa-5cec-47ac-819b-5e80225e5205"
+    }
+  ]
+}
