@@ -1,6 +1,6 @@
 {
   "name": "booking-be",
-  "description": "Complete backend API template using Hono + Chanfana + D1 + Vitest.",
+  "description": "First test commit .",
   "private": true,
   "cloudflare": {
     "label": "Backend OpenAPI Template",
